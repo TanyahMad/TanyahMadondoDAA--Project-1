@@ -1,4 +1,4 @@
-# TanyahMadondoDAA-Project-1
+# TanyahMadondoDAA--Project-1
 
 # Project 1 – Option 0: Time Complexity Analysis
 
@@ -28,8 +28,8 @@ Output of results for analysis.
 
 How to Run
 Clone the repository or download the files.
-git clone https://github.com/YOUR_USERNAME/DAA_Project1.git
-cd DAA_Project1
+git clone https://github.com/TanyahMad/TanyahMadondoDAA--Project-1.git
+cd TanyahMadondoDAA--Project-1
 
 Run the Python script:
 python3 project1.py
